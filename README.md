@@ -30,7 +30,8 @@ npm install && npm run dev
 
 **Beispiel Screenshot einer finalen App**
 
-![](/public/final-app-screenshot.png)
+<img width="919" alt="image" src="https://github.com/user-attachments/assets/0bbec98b-daec-407f-aa9d-41713958fa63">
+
 
 **Tipps**
 
